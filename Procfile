@@ -1,1 +1,1 @@
-web: web: ./target/release/rust_api
+web: ./target/release/rust_api
