@@ -1,0 +1,1 @@
+web: ./rust_api
